@@ -37,3 +37,10 @@
 
 - Figma for design and prototyping
 - Design resources such as icons, templates, and color palettes from online libraries (e.g., Unsplash, Flaticon, etc.)
+
+## Questions?
+
+- Who of you possesses a 3D printer?
+- Where do usually get your 3D models from? (e.g., online repositories, self-designed, etc.)
+- Do some of your relatives or friends have a 3D printer? If so, do they use it often? What do they use it for?
+- What would expect from a website that offers 3D printing services? (e.g., product variety, pricing, user experience, speed of service, etc.)
