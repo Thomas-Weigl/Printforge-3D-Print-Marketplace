@@ -13,6 +13,7 @@
 ## Used Tools
 
 - chosen Figma as Design Tool for the prototype
+- CoPilot image generation
 
 ## Notes - Idea
 
@@ -21,16 +22,11 @@
 - This dual approach targets both non-technical users seeking ready-to-use products and experienced users with 3D printers who prefer self-printing for cost efficiency.
 - The project emphasizes usability, accessibility, and clear interface design to provide an intuitive shopping experience for a broad audience.
 
+- tried to legitimize every UI element by always giving a reason / explanation for their usage / changes
+
+- immediately apply best practices from the lecture like laws for design or metrics to evaluate our UI for user-friendlyness and usability
+  - also include friends and other people in the process and apply "user-driven" development and ask for immediate feedback
+
 ## Notes - Prototype (Figma)
 
 ## Notes - Evaluation & Conclusion
-
-# TODOs
-
-## Thomas
-
-- [ ] ...
-
-## Matthis
-
-- [ ] ...
