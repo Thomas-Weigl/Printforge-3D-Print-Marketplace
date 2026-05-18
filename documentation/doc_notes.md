@@ -30,3 +30,7 @@
 ## Notes - Prototype (Figma)
 
 ## Notes - Evaluation & Conclusion
+
+- made a clear plan for the evaluation and conclusion steps (see "Evaluation" in exec_plan.md)
+- evaluation will be conducted using the Figma prototype and an online survey (e.g. Google Forms) with quantitative and qualitative questions
+- links to the Figma prototype and the online survey will be included in the documentation and the presentation slides
