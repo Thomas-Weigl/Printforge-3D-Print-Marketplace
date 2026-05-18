@@ -12,6 +12,7 @@
 
 ## Used Tools
 
+- GitHub for version control and collaboration -> define task for each team member, supply links to the documentation and the prototype, provide up to date photos
 - chosen Figma as Design Tool for the prototype
 - CoPilot image generation
 
