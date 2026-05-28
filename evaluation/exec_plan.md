@@ -2,9 +2,9 @@
 
 ## Preparation Steps
 
-- [_] Which design elements / functionalities need to be evaluated?
-  - [_] How can they be assessed?
-- [_] What tasks do the participants need to complete to evaluate the design elements / functionalities?
+- [x] Which design elements / functionalities need to be evaluated?
+  - [x] How can they be assessed?
+- [x] What tasks do the participants need to complete to evaluate the design elements / functionalities?
   - [_] Test the tasks yourself -> (How long does it take to complete the tasks? Are the instructions clear?)
 - [_] Shortly describe the evaluation for the participants
 - [_] Add link to the Figma file, where the design elements / functionalities are described
@@ -17,3 +17,39 @@
 - [_] Calculate median, mean, standard deviation for the quantitative questions
 - [_] Documentate the results in a clear and concise way (e.g., tables, graphs)
 - [_] Write a conclusion based on the results (e.g., what design elements / functionalities are well received by the participants? Which design elements / functionalities need to be improved? What are the next steps to improve the design elements / functionalities?)
+
+## Elements to evaluate
+
+- Navigation Bar -> go from one page to another
+- shopping cart -> add items to the shopping cart, view the shopping cart, remove items from the shopping cart
+- profile page -> view profile information, edit profile information
+- font size -> is the font size appropriate for the content? Is it easy to read?
+- color scheme -> is the color scheme visually appealing? Does it provide enough contrast for readability?
+- overall design -> is the overall design visually appealing? Does it provide a good user experience?
+
+## Evaluation Questions
+
+- From the starting page, open the navigation, go to the ready-to-buy page and then to the blueprints page.
+  - How easy was it to navigate through the pages? (1-5)
+  - How long did it take you to complete the task approximately? (in seconds)
+  - How would you rate the overall design of the navigation bar? (1-5)
+  - Was your experience smooth and intuitive? (1-5)
+- Navigate to the shopping cart, add an item to the shopping cart, view the shopping cart and then remove the item from the shopping cart.
+  - How easy was it to complete the task? (1-5)
+  - How long did it take you to complete the task approximately? (in seconds)
+  - How would you rate the overall design of the shopping cart? (1-5)
+  - Could you instinctivly figure out how to execute certain actions? (1-5)
+  - How easy was it to find the shopping cart? (1-5)
+  - Did you easily find the button to add an item to the shopping cart? (1-5)
+  - Were you able to delete the added item from the shopping cart without any problems? (1-5)
+- Navigate to the profile page, view your profile information and then edit your profile information.
+  - How easy was it to complete the task? (1-5)
+  - How long did it take you to complete the task approximately? (in seconds)
+  - How would you rate the overall design of the profile page? (1-5)
+  - Could you instinctivly figure out how to execute certain actions? (1-5)
+  - How easy was it to find the profile page? (1-5)
+  - Did you easily find the button to edit your profile information? (1-5)
+  - Were you able to edit your profile information without any problems? (1-5)
+- How would you rate the font size of the content? (1-5)
+- How would you rate the color scheme of the design? (1-5)
+- How would you rate the overall design of the website? (1-5)
