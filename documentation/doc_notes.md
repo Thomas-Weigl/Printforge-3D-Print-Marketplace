@@ -18,6 +18,7 @@
 - GitHub for version control and collaboration -> define task for each team member, supply links to the documentation and the prototype, provide up to date photos
 - chosen Figma as Design Tool for the prototype
 - CoPilot image generation
+- (planned to use Jira for organising the project)
 
 ## Notes - Idea
 
@@ -32,6 +33,15 @@
   - also include friends and other people in the process and apply "user-driven" development and ask for immediate feedback
 
 ## Notes - Prototype (Figma)
+
+### Initial (Paper) Sketches
+
+- started with paper sketches to quickly iterate on the design and layout of the website
+- defined the different slided and their content (e.g. homepage, product page, checkout process, etc.)
+- created the initial design for the homepage
+  - what colors to use throughout the website (e.g. for buttons, background, etc.)
+  - how to structure the content on the homepage (e.g. categories, featured products, etc.)
+  - how to design the navigation menu (e.g. categories, search bar, etc.)
 
 ## Notes - Evaluation & Conclusion
 

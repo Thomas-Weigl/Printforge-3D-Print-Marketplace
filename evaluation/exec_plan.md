@@ -9,7 +9,7 @@
 - [x] What tasks do the participants need to complete to evaluate the design elements / functionalities?
   - [_] Test the tasks yourself -> (How long does it take to complete the tasks? Are the instructions clear?)
 - [x] Shortly describe the evaluation for the participants
-- [_] Add link to the Figma file, where the design elements / functionalities are described
+- [x] Add link to the Figma file, where the design elements / functionalities are described
 - [_] Prepare the evaluation by creating an online survey (with instructions then questions) -> Google Forms, Typeform (make sure that the online service doesn't require a payment to get the results)
   - [_] Test the survey yourself -> (How long does it take to complete the survey? => add to short desription Are the questions clear?)
 - [_] Add link to the online survey, where the evaluation will be conducted -> QR-Code
@@ -31,12 +31,12 @@
 
 ## Evaluation Questions
 
-- From the starting page, open the navigation, go to the ready-to-buy page and then to the blueprints page. [own testing: -- seconds]
+- From the starting page, open the navigation, go to the ready-to-buy page and then to the blueprints page. [own testing: -- 8 seconds]
   - How easy was it to navigate through the pages? (1-5)
   - How long did it take you to complete the task approximately? (in seconds)
   - How would you rate the overall design of the navigation bar? (1-5)
   - Was your experience smooth and intuitive? (1-5)
-- Navigate to the ready-to-buy page, add an item to the shopping cart, then do the same for the a blueprint. View the shopping cart and then remove the item from the shopping cart. [own testing: -- seconds]
+- Navigate to the ready-to-buy page, add an item to the shopping cart, then do the same for the a blueprint. View the shopping cart and then remove one item from the shopping cart. [own testing: -- seconds]
   - How easy was it to complete the task? (1-5)
   - How long did it take you to complete the task approximately? (in seconds)
   - How would you rate the overall design of the shopping cart? (1-5)
