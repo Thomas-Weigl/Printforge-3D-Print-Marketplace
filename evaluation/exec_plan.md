@@ -55,14 +55,16 @@ Navigate to the **Ready-to-Buy** section, add the vase to the shopping cart. Ope
 
 **Questions**
 
-1. **Ease of checkout flow:** How easy was it to add an item and manage it in the cart? (1–5)
-2. **Time on task:** Approximately how long did it take? (seconds)
-3. **Add-to-cart clarity:** How clear was the “Add to cart” action (label, icon, placement, feedback)? (1–5)
-4. **Feedback & system status:** Did you receive clear confirmation that items were added/removed? (1–5)
-5. **Cart findability:** How easy was it to locate the cart from each page? (1–5)
-6. **Cart usability:** How would you rate the cart UI (readability, item details, totals, controls)? (1–5)
-7. **Error tolerance:** If you removed the wrong item, did it feel like you could recover easily (undo, clear messaging, simple re-add)? (1–5)
-8. **Open feedback:** What was the most frustrating part of this flow, if any? (short answer)
+1. **Ease of adding and managing items in the cart:** How straightforward was it to add an item, adjust quantities, and remove items? (1–5)
+2. **Time on task:** Approximately how long did it take to complete the entire process? (seconds)
+3. **Clarity of the add-to-cart action:** How clear and intuitive was the “Add to cart” button (label, icon, placement, feedback)? (1–5)
+4. **Feedback & system response:** Did you receive clear, timely confirmation when items were added, updated, or removed? (1–5)
+5. **Cart visibility and findability:** How easy was it to locate and access your shopping cart from different pages? (1–5)
+6. **Cart usability and clarity:** How would you rate the layout and readability of the cart, including item details, totals, and controls? (1–5)
+7. **Quantity adjustment experience:** How easy and intuitive was it to increment or decrement item quantities? (1–5)
+8. **Error handling and recovery:** If you removed the wrong item, did it feel easy to undo or recover? (1–5)
+9. **Overall satisfaction:** How satisfied are you with the overall checkout and cart management flow? (1–5)
+10. **Open feedback:** What was the most frustrating part of this flow, and do you have suggestions for improvement? (short answer)
 
 ---
 
