@@ -35,7 +35,7 @@
 
 From the starting page, open the navigation menu, go to the **Ready-to-buy** page, and then navigate to the **Blueprints** page.
 
-**Own testing time:** 8 seconds
+**Own testing time:** 5 seconds
 
 **Questions**
 
@@ -50,7 +50,7 @@ From the starting page, open the navigation menu, go to the **Ready-to-buy** pag
 
 ### Task 2 — Shopping flow (add one item, view cart, remove one item) (\*)
 
-Navigate to the **Ready-to-Buy** section, add the vase to the shopping cart. Open the **Shopping Cart**, adjust the quantity by incrementing or decrementing, and then remove the vase from the cart.
+Navigate to the **Blueprints** section, add the vase to the shopping cart. Open the **Shopping Cart**, adjust the quantity by incrementing or decrementing, and then remove the vase from the cart.
 
 **Own testing time:** \_\_\_ seconds
 
