@@ -47,15 +47,15 @@ From the starting page, open the navigation menu, go to the **Ready-to-buy** pag
 
 ---
 
-### Task 2 — Shopping flow (add two items, view cart, remove one)
+### Task 2 — Shopping flow (add one item, view cart, remove one item)
 
-Navigate to **Ready-to-buy**, add one item to the shopping cart, then navigate to **Blueprints** and add one blueprint. Open the **Shopping Cart** and remove **one** item.
+Navigate to the **Ready-to-Buy** section, add the vase to the shopping cart. Open the **Shopping Cart**, adjust the quantity by incrementing or decrementing, and then remove the vase from the cart.
 
 **Own testing time:** \_\_\_ seconds
 
 **Questions**
 
-1. **Ease of checkout flow:** How easy was it to add two items from different sections and manage them in the cart? (1–5)
+1. **Ease of checkout flow:** How easy was it to add an item and manage it in the cart? (1–5)
 2. **Time on task:** Approximately how long did it take? (seconds)
 3. **Add-to-cart clarity:** How clear was the “Add to cart” action (label, icon, placement, feedback)? (1–5)
 4. **Feedback & system status:** Did you receive clear confirmation that items were added/removed? (1–5)
@@ -66,9 +66,9 @@ Navigate to **Ready-to-buy**, add one item to the shopping cart, then navigate t
 
 ---
 
-### Task 3 — Profile management (view and edit)
+### Task 3 — Profile management (view and edit) (\*)
 
-Navigate to your **Profile** page, review your profile information, and update at least one field. Save your changes.
+Access the Sign-In screen, perform a login, and proceed to the Profile section. Verify the displayed user information, make necessary edits to the name, email, and address fields, and then save the updates.
 
 **Own testing time:** \_\_\_ seconds
 
@@ -79,12 +79,13 @@ Navigate to your **Profile** page, review your profile information, and update a
 3. **Edit affordance clarity:** How clear was it where/how to edit your information? (1–5)
 4. **Form usability:** How would you rate the editing experience (field labels, input behavior, validation, layout)? (1–5)
 5. **Save confidence:** After saving, how confident were you that your changes were applied successfully? (1–5)
-6. **Privacy & trust:** Did anything about the profile page make you unsure about privacy/security (e.g., unclear data use, too much exposed info)? (1–5)
-7. **Open feedback:** What additional profile feature would you expect (change password, avatar upload, email preferences, etc.)? (short answer)
+6. **Open feedback:** What additional profile feature would you expect (change password, avatar upload, email preferences, etc.)? (short answer)
 
 ---
 
-### Overall UI/UX Feedback
+### Overall UI/UX Feedback (\*)
+
+After completing the tasks, you should have a solid first impression of the Printforge prototype. In the final section, please share a brief summary of your overall experience—your thoughts on the design, usability, and anything that stood out (positive or negative). Your feedback is genuinely appreciated. ;)
 
 1. **Typography:** How would you rate font size and readability? (1–5)
 2. **Visual design:** How would you rate the color scheme and contrast? (1–5)
