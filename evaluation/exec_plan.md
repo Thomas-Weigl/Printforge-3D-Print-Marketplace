@@ -7,10 +7,10 @@
 - [x] Which design elements / functionalities need to be evaluated?
   - [x] How can they be assessed?
 - [x] What tasks do the participants need to complete to evaluate the design elements / functionalities?
-  - [_] Test the tasks yourself -> (How long does it take to complete the tasks? Are the instructions clear?)
+  - [x] Test the tasks yourself -> (How long does it take to complete the tasks? Are the instructions clear?)
 - [x] Shortly describe the evaluation for the participants
 - [x] Add link to the Figma file, where the design elements / functionalities are described
-- [_] Prepare the evaluation by creating an online survey (with instructions then questions) -> Google Forms, Typeform (make sure that the online service doesn't require a payment to get the results)
+- [x] Prepare the evaluation by creating an online survey (with instructions then questions) -> Google Forms, Typeform (make sure that the online service doesn't require a payment to get the results)
   - [_] Test the survey yourself -> (How long does it take to complete the survey? => add to short desription Are the questions clear?)
 - [_] Add link to the online survey, where the evaluation will be conducted -> QR-Code
 
@@ -31,9 +31,10 @@
 
 ## Evaluation Questions
 
-### Task 1 — Navigation discovery (Ready-to-buy → Blueprints)
+### Task 1 — Navigation discovery (Ready-to-buy → Blueprints) (\*)
 
-From the starting page, open the navigation menu, go to the **Ready-to-buy** page, and then navigate to the **Blueprints** page.  
+From the starting page, open the navigation menu, go to the **Ready-to-buy** page, and then navigate to the **Blueprints** page.
+
 **Own testing time:** 8 seconds
 
 **Questions**
@@ -47,7 +48,7 @@ From the starting page, open the navigation menu, go to the **Ready-to-buy** pag
 
 ---
 
-### Task 2 — Shopping flow (add one item, view cart, remove one item)
+### Task 2 — Shopping flow (add one item, view cart, remove one item) (\*)
 
 Navigate to the **Ready-to-Buy** section, add the vase to the shopping cart. Open the **Shopping Cart**, adjust the quantity by incrementing or decrementing, and then remove the vase from the cart.
 
