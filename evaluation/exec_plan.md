@@ -50,13 +50,13 @@ From the starting page, open the navigation menu, go to the **Ready-to-buy** pag
 
 ### Task 2 — Shopping flow (add one item, view cart, remove one item) (\*)
 
-Navigate to the **Blueprints** section, add the vase to the shopping cart. Open the **Shopping Cart**, adjust the quantity by incrementing or decrementing, and then remove the vase from the cart.
+First, navigate to the Blueprints section and add the vase to the shopping cart. Next, proceed to the Ready-to-Buy page and add the tool holder to the cart. Afterward, open the Shopping Cart interface, where you will adjust the quantities of both products by incrementing or decrementing as necessary. Finally, remove the tool holder from the shopping cart.
 
 **Own testing time:** \_\_\_ seconds
 
 **Questions**
 
-1. **Ease of adding and managing items in the cart:** How straightforward was it to add an item, adjust quantities, and remove items? (1–5)
+1. **Ease of adding and managing items in the cart:** How straightforward was it to add the two items, adjust quantities, and remove items? (1–5)
 2. **Time on task:** Approximately how long did it take to complete the entire process? (seconds)
 3. **Clarity of the add-to-cart action:** How clear and intuitive was the “Add to cart” button (label, icon, placement, feedback)? (1–5)
 4. **Feedback & system response:** Did you receive clear, timely confirmation when items were added, updated, or removed? (1–5)
