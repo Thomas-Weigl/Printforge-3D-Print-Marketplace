@@ -69,22 +69,24 @@ First, navigate to the Blueprints section and add the vase to the shopping cart.
 
 ---
 
-### Task 3 — Profile management (view and edit) (\*)
+### Task 3 — Profile management (view and confirm) (\*)
 
-Access the Sign-In screen, perform a login, and proceed to the Profile section. Verify the displayed user information, make necessary edits to the name, email, and address fields, and then save the updates.
+Navigate to the **Sign-In** screen within the prototype and log in (by just clicking on "Continue"). Once logged in, proceed to the **Profile** section. Review the displayed user information, and then confirm the presented information.
 
 **Own testing time:** \_\_\_ seconds
 
 **Questions**
 
-1. **Findability:** How easy was it to find the profile area? (1–5)
-2. **Time on task:** Approximately how long did it take? (seconds)
-3. **Edit affordance clarity:** How clear was it where/how to edit your information? (1–5)
-4. **Form usability:** How would you rate the editing experience (field labels, input behavior, validation, layout)? (1–5)
-5. **Save confidence:** After saving, how confident were you that your changes were applied successfully? (1–5)
-6. **Open feedback:** What additional profile feature would you expect (change password, avatar upload, email preferences, etc.)? (short answer)
-
----
+1. **Ease of Navigation:** How easy was it to locate the **Sign-In screen** and complete the login process? (1–5)
+2. **Access to Profile:** Were you able to find and access the Profile section without difficulty? If not, what obstacles did you encounter? (short answer)
+3. **Time on task:** Approximately how long did it take? (seconds)
+4. **Confusion or Clarity:** Did any part of the process feel confusing or unclear? Please specify. (short answer)
+5. **Additional Features:** Are there any additional details or features you would like to see in the Profile section? (short answer)
+6. **Overall Experience:** How would you rate your overall experience navigating through these steps? (1–5)
+7. **Flow Improvement:** Do you have any suggestions for improving the flow or layout of the login and profile screens? (short answer)
+8. **Expected Information:** Was there any information you expected to see but did not find? (short answer)
+9. **Review Process:** How intuitive did you find the process of reviewing and confirming your user information? (1–5)
+10. **Additional Feedback:** Do you have any other comments or feedback to help us enhance the prototype? (short answer)---
 
 ### Overall UI/UX Feedback (\*)
 
