@@ -1,6 +1,6 @@
 # Evaluation Plan
 
--> link to the evaluation: (...)[https://forms.gle/gMR5oRjEXZGKZyvC6]
+-> link to the evaluation: (...)[https://forms.gle/5NKMLCHDhDKq5TQ16]
 
 ## Preparation Steps
 
@@ -11,8 +11,8 @@
 - [x] Shortly describe the evaluation for the participants
 - [x] Add link to the Figma file, where the design elements / functionalities are described
 - [x] Prepare the evaluation by creating an online survey (with instructions then questions) -> Google Forms, Typeform (make sure that the online service doesn't require a payment to get the results)
-  - [_] Test the survey yourself -> (How long does it take to complete the survey? => add to short desription Are the questions clear?)
-- [_] Add link to the online survey, where the evaluation will be conducted -> QR-Code
+  - [x] Test the survey yourself -> (How long does it take to complete the survey? => add to short desription Are the questions clear?)
+- [x] Add link to the online survey, where the evaluation will be conducted -> QR-Code
 
 ## Conclusion Steps
 
