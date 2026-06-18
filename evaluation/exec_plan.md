@@ -16,9 +16,9 @@
 
 ## Conclusion Steps
 
-- [_] Calculate median, mean, standard deviation for the quantitative questions
-- [_] Documentate the results in a clear and concise way (e.g., tables, graphs)
-- [_] Write a conclusion based on the results (e.g., what design elements / functionalities are well received by the participants? Which design elements / functionalities need to be improved? What are the next steps to improve the design elements / functionalities?)
+- [x] Calculate median, mean, standard deviation for the quantitative questions
+- [x] Documentate the results in a clear and concise way (e.g., tables, graphs)
+- [x] Write a conclusion based on the results (e.g., what design elements / functionalities are well received by the participants? Which design elements / functionalities need to be improved? What are the next steps to improve the design elements / functionalities?)
 
 ## Elements to evaluate
 
@@ -108,3 +108,11 @@ the tasks will involve navigating through the pages, adding items to the shoppin
 after completing the tasks, you will be asked to rate the design elements and functionalities of the website.
 the evaluation should take approximately 10-15 minutes to complete.
 your feedback is valuable to us and will help us improve the design of our website. thank you for participating!
+
+## Conclusion
+
+### Improvements to the evaluation questions
+
+- Error Handling and Recovery: If you removed the wrong item, did it feel easy to undo or recover? -> can be more precise by asking: "Did you notice an option to undo the removal of the item? If yes, how easy was it to use this option?" (1–5)
+- Confusion or Clarity: Did any part of the process feel confusing or unclear? Please specify. -> should be made optional, as it may be difficult for some participants to articulate specific points of confusion, and we don't want to discourage feedback by making it mandatory
+- Consistency: How consistent did the UI feel across pages (buttons, spacing, headings, patterns)? -> a follow-up question could be added to ask participants to provide specific examples of any inconsistencies they noticed, which would help us identify and address those issues more effectively
