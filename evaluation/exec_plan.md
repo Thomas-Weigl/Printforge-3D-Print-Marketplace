@@ -111,6 +111,31 @@ your feedback is valuable to us and will help us improve the design of our websi
 
 ## Conclusion
 
+### Summary of the results
+
+#### Navigation
+
+- navigation is fast, smooth and easy to use
+- navigation bar should always be visible
+
+#### Shopping cart / Shopping flow
+
+- adding items, removing them from the shopping cart and adjusting their quantities is easy
+- undoing the removal of items is not intuitive (not given) and should be improved
+- the shopping cart should be more visible and easier to access from different pages
+
+#### Profile management / Sign-in
+
+- the sign-in process is straightforward and easy to complete
+- profile data is easy to review and confirm
+
+#### Overall UI/UX
+
+- readability and visual design are good
+- the UI is mostly consistent across pages, but there are some inconsistencies that should be addressed
+- the response time is sometimes slow, which can be frustrating for users and should be improved
+- general impression was positive, but there are some areas for improvement, especially in the shopping cart and navigation visibility
+
 ### Improvements to the evaluation questions
 
 - Error Handling and Recovery: If you removed the wrong item, did it feel easy to undo or recover? -> can be more precise by asking: "Did you notice an option to undo the removal of the item? If yes, how easy was it to use this option?" (1–5)
