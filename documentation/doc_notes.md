@@ -152,6 +152,69 @@
 - After testing, the results will be analyzed.
 - The main focus is to document what was done.
 
+#### Color Scheme
+
+- Used exclusively black and white.
+- For all other elements, mainly work with opacity (transparency).
+
+#### Navigation Bar
+
+- Original plan: Create a separate design for the navigation bar.
+- Decision: Instead, use an example design (example one) to maximize clarity.
+- Design choice based on the desire to provide maximum overview.
+
+#### Design Guidelines
+
+- Based on Apple's Liquid Glass design.
+- Aim: Maintain a consistent, modern look with glass-like effects.
+
+#### Page Switching and User Guidance
+
+- When switching pages, the current page is highlighted to indicate control.
+- Goal: Provide clear orientation for users.
+
+#### Menu Button (Three Bars)
+
+- Function: When clicked, the menu transforms into a cross to close.
+- Intuitiveness: The cross is easier for normal users to understand.
+- The three bars are a common symbol for menus, even if the cross is more intuitive.
+- Insights:
+  - Two criteria in design:
+    - The cross is intuitive.
+    - Three bars are a standard menu symbol.
+
+#### Variable Storage
+
+- Considering using variables to store the state (expanded or not).
+- Goal: Persistently save the menu's status.
+
+#### Liquid Glass Design
+
+- Relatively complex to implement.
+- Uses various effects.
+- Involves stacking two objects and cutting effects.
+- Working with variants:
+  - Variants were implemented on a single frame.
+  - Not on multiple frames to keep things manageable.
+- The lower frame (variant 2) is only a template:
+  - Currently has no active role.
+  - Serves as a backup for formats in case elements are deleted.
+
+#### Background Design
+
+- Original specification: White background with images (as in blueprints and ready-to-buy).
+- Current status: Uncertain whether this still fits well.
+- Considerations:
+  - Make images transparent.
+  - Enclose images with a liquid-glass box.
+  - Alternatively: Use a black background, as the glass design looks best on black.
+- Currently experimenting and testing different options.
+
+#### Additional Notes
+
+- Need to familiarize with variable handling.
+- Objective: Determine which information should be stored.
+
 ## Notes - Evaluation & Conclusion
 
 - made a clear plan for the evaluation and conclusion steps (see "Evaluation" in exec_plan.md)
