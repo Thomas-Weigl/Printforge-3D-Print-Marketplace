@@ -114,8 +114,6 @@
 
 #### Future Steps and Technical Considerations
 
-- Prioritized task: complete the **Product Detail Page** over the weekend.
-- Time-sensitive: aim to finish before a major deadline in two weeks.
 - Possible development of **"Help & Support," "FAQ," "Terms & Conditions"**; mostly text, so design may be minimal.
 - **"About Us"** page to be created.
 - **Customizer-Editor:**
@@ -126,6 +124,33 @@
 ### Figma Prototype
 
 - try to use Fitts's Law for the design of the buttons and interactive elements (e.g. make the "Add to cart" button larger and more prominent) -> short calculation with a button element to show how we applied Fitts's Law (good with current bad response time of the prototype)
+
+#### After Completion of the Basic Layout
+
+- This version will be reviewed by different people:
+  - Mother
+  - Friend
+  - Possibly grandmother (Oma)
+- The goal is to cover the target groups: young and middle-aged audiences.
+
+#### Feedback Strategy
+
+- Consider how to gather feedback.
+- Feedback will be collected from acquaintances (family and friends) and later from the actual user group.
+- The exact method of collecting feedback is still undecided.
+
+#### Navigation Within the Prototype
+
+- Questions about practical navigation in the FIGMA prototype need to be addressed:
+  - Example: How to add an order?
+  - Example: How to add products to the shopping cart?
+- The team will handle these tasks.
+- Use the techniques learned in the last session to facilitate testing and feedback.
+
+#### Evaluation of the Testing
+
+- After testing, the results will be analyzed.
+- The main focus is to document what was done.
 
 ## Notes - Evaluation & Conclusion
 
