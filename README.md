@@ -1,11 +1,97 @@
-# Printforge-3D-Print-Marketplace
-Printforge-3D-Print-Marketplace is a project developed as part of the Human-Computer Interaction module at Aalen University. The goal of the project is to design and prototype a modern web-based marketplace for 3D-printed products, following a structured, user-centered design process.
+# 🖨️ Printforge – 3D Print Marketplace
 
-The development process begins with initial sketches and conceptual layouts, followed by interactive prototypes. These prototypes are evaluated through feedback from other students and users, and iteratively improved. The final design is implemented in Figma, with selected components additionally realized using technologies such as React and Tailwind CSS.
+A user-centered marketplace concept for 3D-printed products and printable 3D models, developed as part of the Human-Computer Interaction (HCI) module at Aalen University.
 
-The platform itself is designed as a flexible marketplace that supports two main use cases: users can either purchase ready-made 3D-printed products or download models to print them independently. This dual approach addresses different target groups, ranging from users without technical knowledge who prefer ready-to-use products, to experienced users with access to 3D printers who want a more cost-efficient, self-printing option.
+## Contents
 
-The project focuses on usability, accessibility, and clear interface design, aiming to create an intuitive shopping experience for a broad audience while exploring modern web development and design practices.
+- Overview
 
-Work in progress. This project is developed during one semester at Aalen University (Human-Computer Interaction) and will be continuously updated with designs, prototypes, and implementation.
+- Concept
 
+- Development Process
+
+- Repository Contents
+
+- Project Goals
+
+- Status
+
+
+
+
+# Printforge – 3D Print Marketplace
+
+## Overview
+
+Printforge is a project developed as part of the **Human-Computer Interaction (HCI)** module at **Aalen University**. The goal is to design and prototype a modern marketplace for 3D-printed products and printable 3D models while applying user-centered design principles throughout the entire development process.
+
+## Concept
+
+The platform combines two approaches to the 3D-printing market:
+
+- Purchase ready-made 3D-printed products
+- Download digital 3D models for self-printing
+
+This allows Printforge to serve both casual customers and experienced users with access to 3D printers.
+
+## Development Process
+
+The project follows an iterative design approach:
+
+1. Research and requirements analysis
+2. Personas and user scenarios
+3. Sketches and paper prototypes
+4. Interactive prototypes
+5. User evaluations and feedback collection
+6. Design improvements and refinements
+
+All major design decisions are based on user feedback and usability evaluations.
+
+## Repository Contents
+
+This repository contains the complete project documentation, including:
+
+- Personas and target group analysis
+- Design documentation
+- Interactive prototypes
+- Evaluation results and feedback analysis
+- Project presentations
+- Design assets and screenshots
+
+### Repository Structure
+
+```text
+Printforge-3D-Print-Marketplace
+│
+├── Persona/
+├── documentation/
+├── evaluation/
+├── evaluation_to_excel/
+├── pictures/
+├── prototype/
+│
+├── Printforge_Präsentation.pptx
+├── Printforge_begin_of_evaluation.pptx
+├── Printforge_results_of_evaluation.pptx
+├── exec_plan.md
+├── README.md
+└── LICENSE
+```
+
+## Project Goals
+
+Printforge focuses on:
+
+- Usability
+- Accessibility
+- Clear information architecture
+- Modern interface design
+- User-centered development
+
+The aim is to create an intuitive and engaging marketplace experience while demonstrating the practical application of Human-Computer Interaction methods.
+
+## Status
+
+**Work in Progress**
+
+The repository is continuously updated throughout the semester with new prototypes, evaluation results, documentation, and implementation concepts.
