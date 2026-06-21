@@ -46,6 +46,14 @@
   - Content structure on the homepage: categories, featured products.
   - Navigation menu design: categories, search bar, account/shopping cart icons.
 
+#### General Page Layout
+
+- Visual hierarchy with a large top section.
+- Colorful images linking to subpages (e.g., Products, Blueprints), designed to be visually appealing and clickable.
+- Text compartments with explanatory info, designed to be transparent or subtly integrated.
+- Company images (generated via AI, e.g., employees, production) linking to pages like "About Us."
+- Footer remains constant with essential links.
+
 #### Ready-to-Buy Page and Menu Design
 
 - Developed the **"Ready-to-Buy"** page with text and images (considering a background gradient, which is challenging to implement).
@@ -56,7 +64,7 @@
   - Potentially replacing the account icon with a shopping cart icon for better accessibility.
 - The menu should be visible across relevant pages, including "Ready-to-Buy" and "Blueprints."
 
-#### Structure and Layout
+#### Landing Page
 
 - Clear page structure with accessible navigation via buttons, images, footer, and top-right menu.
 - Landing page accessible via main buttons, images, or footer.
@@ -66,45 +74,24 @@
   - Profile information or image, with explanation of design choices.
   - Two prominent buttons ("Ready-to-Buy" and "Blueprints") leading to main sections.
 
-#### Main Compartments and Navigation
-
-- Visual hierarchy with a large top section.
-- Colorful images linking to subpages (e.g., Products, Blueprints), designed to be visually appealing and clickable.
-- Text compartments with explanatory info, designed to be transparent or subtly integrated.
-- Company images (generated via AI, e.g., employees, production) linking to pages like "About Us."
-- Footer remains constant with essential links.
-
-#### Design and Visual Elements
+#### Product Detail Page
 
 - Consideration for product detail pages with expandable animations.
 - Use of images with transparent areas blending seamlessly.
 - Consistent layout across pages, with variations in text and imagery.
 - The background for product images typically in gray, with a preference for lighter tones if available.
 - Product info displayed with name and price, with color variations (black or white text).
-
-#### Filter Functionality
-
-- Filter button toggles product images to compress and reveals a filter panel.
-- Filter options include:
-  - Product Type
-  - Color
-  - Price
-  - Collections
-  - Out-of-Stock
-- Checkboxes allow users to include/exclude out-of-stock items.
-- "Apply" button to confirm filters; toggling the filter panel on/off.
-- Filter panel's appearance and disappearance are animated or toggled.
-
-#### Product Presentation
-
 - Products displayed with a gray background, transparent overlay of product images.
 - Product name and price shown below the image; text in black or white depending on design.
 - Similar layouts used across "Ready-to-Buy" and "Blueprints" pages, with variations in content.
 
-#### Additional Page Details
+#### Blueprints Page
 
 - **"Blueprints"** page layout mirrors "Ready-to-Buy" but with different text and images.
 - Integration of the new top menu design on all relevant pages.
+
+#### Navigation Menu
+
 - Navigation menu:
   - Fixed at the bottom with three buttons.
   - Consider changing the icon at the top left (e.g., to a different symbol indicating menu state).
@@ -132,6 +119,19 @@
   - The search bar can be expanded on every screen.
   - The progress includes removing the neighbor-gans (normal state), so they are now only expandable and collapsible.
   - The "mysterious ghost transition" has been resolved.
+
+#### Filter Functionality
+
+- Filter button toggles product images to compress and reveals a filter panel.
+- Filter options include:
+  - Product Type
+  - Color
+  - Price
+  - Collections
+  - Out-of-Stock
+- Checkboxes allow users to include/exclude out-of-stock items.
+- "Apply" button to confirm filters; toggling the filter panel on/off.
+- Filter panel's appearance and disappearance are animated or toggled.
 
 #### Open Tasks & Next Steps
 
