@@ -179,9 +179,9 @@
   - The shopping cart can be opened from the top.
   - Can be closed via an 'X' button at the top right, placed for quick access.
   - Can also be closed by swiping left, detected by an invisible rectangle.
+  - price is calculated by multiplying the quantity with the price of the product, which is stored in a variable.
 - Checkout:
   - Still needs to be implemented.
-  - Product quantity adjustment is a minor task.
 - Navigation & User Guidance:
   - Questions about practical navigation within the Figma prototype:
     - How to add an order?
@@ -284,7 +284,7 @@
 
 - Added an arrow under products to indicate clickable areas
 - Users are advised that clicking on images also opens product details
-- Buttons in the Ready-to-Buy and Blueprint sections include links to product detail pages
+- Buttons in the Ready-to-Buy and Blueprint sections include links to product detail pages (only for one product on each page for now, but can be easily expanded -> also needed for evaluation)
 
 #### Product Detail Page
 
@@ -294,7 +294,7 @@
 - "Further Informations" section can be expanded or collapsed
 - Reviews button scrolls down to reviews section, possibly with animation
 - Reviews displayed in the familiar Liquid-Glass style
-- User feedback included, e.g., a comment from persona Lars Beitgraf
+- User feedback included, e.g., a comment from persona Lars Bytecraft
 - Review section may include animations
 
 #### Additional Features and Content
