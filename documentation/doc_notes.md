@@ -36,7 +36,6 @@
 
 ### Initial (Paper) Sketches
 
-- Brief explanation of current work on the Figma prototype, focusing on pages **"Ready-to-Buy"** and **"Blueprints"**.
 - Aim: Clarify design decisions and outline future development steps.
 - The work involves layout design, menu structure, filter functionality, product presentation, color schemes, and planning additional pages.
 
@@ -46,9 +45,8 @@
   - Color schemes for buttons, backgrounds, etc.
   - Content structure on the homepage: categories, featured products.
   - Navigation menu design: categories, search bar, account/shopping cart icons.
-- Considered replacing the account icon with a shopping cart icon for easier access.
 
-#### Design Changes and Additions
+#### Ready-to-Buy Page and Menu Design
 
 - Developed the **"Ready-to-Buy"** page with text and images (considering a background gradient, which is challenging to implement).
 - Improved the top menu:
