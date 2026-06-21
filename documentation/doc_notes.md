@@ -125,98 +125,208 @@
 
 - try to use Fitts's Law for the design of the buttons and interactive elements (e.g. make the "Add to cart" button larger and more prominent) -> short calculation with a button element to show how we applied Fitts's Law (good with current bad response time of the prototype)
 
-#### After Completion of the Basic Layout
+#### Progress Overview
 
-- This version will be reviewed by different people:
-  - Mother
-  - Friend
-  - Possibly grandmother (Oma)
-- The goal is to cover the target groups: young and middle-aged audiences.
+- General progress:
+  - Each page now has a functioning link to the shopping cart.
+  - The shopping cart link works regardless of the screen size.
+  - The My Profile Sign-In button functions; open question: what happens when the user is logged in.
+  - The search bar can be expanded on every screen.
+  - The progress includes removing the neighbor-gans (normal state), so they are now only expandable and collapsible.
+  - The "mysterious ghost transition" has been resolved.
 
-#### Feedback Strategy
+#### Open Tasks & Next Steps
 
-- Consider how to gather feedback.
-- Feedback will be collected from acquaintances (family and friends) and later from the actual user group.
-- The exact method of collecting feedback is still undecided.
+- Filter Mechanic:
+  - Various filtering options still need to be implemented.
+  - Four options should be available depending on:
+    - Whether the filter is open.
+    - Whether a different view is active.
+- Color Selection:
+  - Ability to select colors.
+  - Implementation via image change, should be simple.
+- Description and Funding Information:
+  - Expand/collapse functions for both areas still to be implemented.
+- Additional Links:
+  - Remaining links should only be implemented at the end.
 
-#### Navigation Within the Prototype
+#### Additional Design & Structural Considerations
 
-- Questions about practical navigation in the FIGMA prototype need to be addressed:
-  - Example: How to add an order?
-  - Example: How to add products to the shopping cart?
-- The team will handle these tasks.
-- Use the techniques learned in the last session to facilitate testing and feedback.
+- Page Filament:
+  - Similar to "Ready-to-Buy" and "Blueprint".
+  - Only need to replace images.
+  - Mechanics for filters and views need to be selected beforehand.
+- Background Design:
+  - Originally: White background with images (blueprints, ready-to-buy).
+  - Current status: Uncertain if this still fits.
+  - Options under consideration:
+    - Make images transparent and enclose in a liquid-glass box.
+    - Use a black background, as the glass effect looks best on dark.
+  - Currently experimenting with different options.
+- Liquid Glass Design:
+  - Relatively complex to implement, involves stacking objects and cutting effects.
+  - Uses variants:
+    - Variants implemented on a single frame.
+    - Not across multiple frames to keep things manageable.
+  - The lower frame (variant 2) is a template:
+    - Serves as a backup format.
+    - Currently inactive, for future use if elements are deleted.
 
-#### Evaluation of the Testing
+#### Functionality & Interaction Details
 
-- After testing, the results will be analyzed.
-- The main focus is to document what was done.
+- Shopping Cart:
+  - Works through a variable that adjusts the height based on screen size.
+  - The shopping cart can be opened from the top.
+  - Can be closed via an 'X' button at the top right, placed for quick access.
+  - Can also be closed by swiping left, detected by an invisible rectangle.
+- Checkout:
+  - Still needs to be implemented.
+  - Product quantity adjustment is a minor task.
+- Navigation & User Guidance:
+  - Questions about practical navigation within the Figma prototype:
+    - How to add an order?
+    - How to add products to the shopping cart?
+  - Use techniques from previous sessions to facilitate testing and feedback.
+- Page Switching & User Orientation:
+  - Highlight the current page during navigation to provide clear orientation.
 
-#### Color Scheme
+#### Design & User Interface Elements
 
-- Used exclusively black and white.
-- For all other elements, mainly work with opacity (transparency).
+- Navigation Bar:
+  - Original plan: Create a separate design.
+  - Decision: Use an example design to maximize clarity.
+  - Aim: Provide maximum overview.
+- Menu Button (Three Bars):
+  - Function: Transforms into a cross when clicked to close.
+  - Intuitiveness:
+    - Cross is easier to understand for users.
+    - Three bars are a common menu symbol.
+  - Design considerations:
+    - Two criteria:
+      - The cross is intuitive.
+      - The three bars are a standard symbol.
+- Variable Storage:
+  - Considering using variables to store menu state (expanded or collapsed).
+  - Goal: Persist menu status across interactions.
+- Liquid Glass Design:
+  - Uses complex effects, stacking, and cutouts.
+  - Variants are implemented on a single frame.
+  - The inactive lower variant serves as a backup template.
 
-#### Navigation Bar
+#### Testing & Feedback Strategy
 
-- Original plan: Create a separate design for the navigation bar.
-- Decision: Instead, use an example design (example one) to maximize clarity.
-- Design choice based on the desire to provide maximum overview.
+- After completion of the basic layout:
+  - The prototype will be reviewed by:
+    - Mother
+    - Friend
+    - Possibly grandmother (Oma)
+  - Target groups:
+    - Young audiences
+    - Middle-aged audiences
+    - Older audiences
+- Feedback Collection:
+  - Method still undecided.
+  - Feedback will be gathered from family, friends, and later from the actual user group.
+- Evaluation:
+  - Results will be analyzed after testing.
+  - Focus on documenting what was done.
 
-#### Design Guidelines
+#### User Guidance & Page Navigation
 
-- Based on Apple's Liquid Glass design.
-- Aim: Maintain a consistent, modern look with glass-like effects.
+- Questions about how users will practically navigate:
+  - How to add an order?
+  - How to add products to the shopping cart?
+- Use techniques learned previously to facilitate testing and feedback.
+- When switching pages, the current page will be highlighted for clarity.
 
-#### Page Switching and User Guidance
+### General Design Decisions
 
-- When switching pages, the current page is highlighted to indicate control.
-- Goal: Provide clear orientation for users.
+#### General Design Philosophy and Layout
 
-#### Menu Button (Three Bars)
+- Based on the rough paper design plan
+- Decided to place key elements in the center and lower parts of the layout
+- Chose not to mention the Ready-to-Buy and Blueprint links in the footer since they are already visible on the landing page
+- Focused on highlighting the initial distinction between offers to emphasize differences
+- Included an "About Us" section in the footer to build trust by showcasing the team
+- Company is visually represented as being in a green, natural environment to create a positive image
+- A button in the footer allows users to view more information
 
-- Function: When clicked, the menu transforms into a cross to close.
-- Intuitiveness: The cross is easier for normal users to understand.
-- The three bars are a common symbol for menus, even if the cross is more intuitive.
-- Insights:
-  - Two criteria in design:
-    - The cross is intuitive.
-    - Three bars are a standard menu symbol.
+#### Header Design and Navigation
 
-#### Variable Storage
+- Logo centered, also functions as a button to return to the landing page (similar to online shops)
+- Search bar included for increased flexibility, especially helpful for older users
+- Profile login accessible
+- Shopping cart: remains visible, does not open in a new window to avoid confusion, can be closed easily by clicking a cross or the left side
+- Users can close the shopping cart at any time, maintaining clear awareness of their current location
 
-- Considering using variables to store the state (expanded or not).
-- Goal: Persistently save the menu's status.
+#### Menu Design
 
-#### Liquid Glass Design
+- Initial idea was a separate overlay screen for the menu with an image or short video (e.g., moving printhead)
+- This idea was discarded; instead, the menu remains as an overlay
+- Documented design considerations and alternatives, including the possibility of adding media
 
-- Relatively complex to implement.
-- Uses various effects.
-- Involves stacking two objects and cutting effects.
-- Working with variants:
-  - Variants were implemented on a single frame.
-  - Not on multiple frames to keep things manageable.
-- The lower frame (variant 2) is only a template:
-  - Currently has no active role.
-  - Serves as a backup for formats in case elements are deleted.
+#### Consistent Page Layout and Style
 
-#### Background Design
+- All pages (e.g., landing page, Ready-to-Buy, Blueprint) share a uniform layout
+- Consistent use of images, texts, headings, and subheadings
+- Design style: Apple-like, black-and-white, liquid-glass aesthetic
+- Uniform arrangement of filters and views; only product content varies
 
-- Original specification: White background with images (as in blueprints and ready-to-buy).
-- Current status: Uncertain whether this still fits well.
-- Considerations:
-  - Make images transparent.
-  - Enclose images with a liquid-glass box.
-  - Alternatively: Use a black background, as the glass design looks best on black.
-- Currently experimenting and testing different options.
+#### Filters and Button Interactions
 
-#### Additional Notes
+- Filters are collapsible, revealing various options when opened
+- Filter functionality has not been implemented due to complexity and numerous options
+- Buttons feature hover and pressed animations (some still pending implementation)
+- User feedback is being incorporated into button animation and interaction design
+- View size can be adjusted for older (larger) or younger (smaller) users, with future adjustable settings
 
-- Need to familiarize with variable handling.
-- Objective: Determine which information should be stored.
+#### Product Overview and Navigation
+
+- Added an arrow under products to indicate clickable areas
+- Users are advised that clicking on images also opens product details
+- Buttons in the Ready-to-Buy and Blueprint sections include links to product detail pages
+
+#### Product Detail Page
+
+- Consistent header with a large image, which can be swapped later
+- Color options presented in gray circles; selecting a color updates the product image
+- Functionality to add products to the shopping cart, with quantity adjustment
+- "Further Informations" section can be expanded or collapsed
+- Reviews button scrolls down to reviews section, possibly with animation
+- Reviews displayed in the familiar Liquid-Glass style
+- User feedback included, e.g., a comment from persona Lars Beitgraf
+- Review section may include animations
+
+#### Additional Features and Content
+
+- FAQ and Terms & Conditions are not planned for implementation
+- Sign-in page: no search, profile, or shopping cart buttons included, as deemed unnecessary
+- Sign-in menu shows status message "You are in my profile" (placeholder)
+- Profile creation is only indicated with a placeholder; full implementation is optional
+- Navigation between pages is handled via the menu bar (switching feature)
+- Approximate completion: around 80% of the prototype is finished
+- Remaining tasks include designing the filament section and polishing details
 
 ## Notes - Evaluation & Conclusion
+
+### Pre-Evaluation Planning
 
 - made a clear plan for the evaluation and conclusion steps (see "Evaluation" in exec_plan.md)
 - evaluation will be conducted using the Figma prototype and an online survey (e.g. Google Forms) with quantitative and qualitative questions
 - links to the Figma prototype and the online survey will be included in the documentation and the presentation slides
+
+- evaluation will focus on the navigation bar, shopping cart, profile page, font size, color scheme, and overall design
+- participants will be asked to complete specific tasks related to these design elements and functionalities, and then answer questions about their experience
+
+### Evaluation Execution
+
+- provided slides with QR-Code to access the online survey during the evaluation presentation
+- link to the FIGMA prototype was directly in the survey, so participants could easily access it and complete the tasks while answering the questions
+- we explained what we considered from the proposals and recommendation from the initial project presentation question round
+
+### Conclusion & Next Steps
+
+- calculated median, mean, and standard deviation for the quantitative questions to analyze the results
+- documented the results in a clear and concise way using tables and graphs
+- wrote a conclusion based on the results, identifying which design elements and functionalities were well received and which need improvement -> already changed some design before the final presentation based on the feedback from the evaluation
+- outlined next steps for improving the design and improved questioning
