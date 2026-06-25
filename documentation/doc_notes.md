@@ -140,13 +140,8 @@
   - Four options should be available depending on:
     - Whether the filter is open.
     - Whether a different view is active.
-- Color Selection:
-  - Ability to select colors.
-  - Implementation via image change, should be simple.
 - Description and Funding Information:
   - Expand/collapse functions for both areas still to be implemented.
-- Additional Links:
-  - Remaining links should only be implemented at the end.
 
 #### Additional Design & Structural Considerations
 
@@ -156,7 +151,6 @@
   - Mechanics for filters and views need to be selected beforehand.
 - Background Design:
   - Originally: White background with images (blueprints, ready-to-buy).
-  - Current status: Uncertain if this still fits.
   - Options under consideration:
     - Make images transparent and enclose in a liquid-glass box.
     - Use a black background, as the glass effect looks best on dark.
@@ -182,7 +176,6 @@
   - Still needs to be implemented.
 - Navigation & User Guidance:
   - Questions about practical navigation within the Figma prototype:
-    - How to add an order?
     - How to add products to the shopping cart?
   - Use techniques from previous sessions to facilitate testing and feedback.
 - Page Switching & User Orientation:
