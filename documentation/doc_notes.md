@@ -204,6 +204,8 @@
   - Variants are implemented on a single frame.
   - The inactive lower variant serves as a backup template.
 
+  -> ....
+
 #### Testing & Feedback Strategy
 
 - After completion of the basic layout:
