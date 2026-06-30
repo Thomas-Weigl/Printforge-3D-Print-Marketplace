@@ -204,8 +204,6 @@
   - Variants are implemented on a single frame.
   - The inactive lower variant serves as a backup template.
 
-  -> ....
-
 #### Testing & Feedback Strategy
 
 - After completion of the basic layout:
@@ -278,6 +276,8 @@
 - Added an arrow under products to indicate clickable areas
 - Users are advised that clicking on images also opens product details
 - Buttons in the Ready-to-Buy and Blueprint sections include links to product detail pages (only for one product on each page for now, but can be easily expanded -> also needed for evaluation)
+
+-> ...
 
 #### Product Detail Page
 
